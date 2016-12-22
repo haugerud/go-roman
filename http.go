@@ -15,7 +15,7 @@ func to_roman(n int) string {
         return "II"
     }
     if n == 3 {
-        return "IIII"
+        return "III"
     }
     return "I" // oopsie
 }
